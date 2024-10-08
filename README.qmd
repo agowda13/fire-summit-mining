@@ -9,7 +9,7 @@ editor: visual
 
 Does cobalt mining cause more conflict than other forms of mining in the Democratic Republic of the Congo?
 
-![](1.avif)
+![](1.avif){width="428" height="433"}
 
 Thousands of Congolese workers cram into a cobalt mining pit (Siddharth Kara, independent.co.uk).
 
