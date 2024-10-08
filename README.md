@@ -6,7 +6,7 @@ Luke Morelli, Ashmitha Gowda, Jack Spoleti, Alex Fichter
 Does cobalt mining cause more conflict than other forms of mining in the
 Democratic Republic of the Congo?
 
-![](images/1.avif)
+![](1.avif)
 
 Thousands of Congolese workers cram into a cobalt mining pit (Siddharth
 Kara, independent.co.uk).
